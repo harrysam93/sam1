@@ -8,7 +8,7 @@ import tkinter as tk
 from tkinter import messagebox
 import sys
 
-# 获取资源路径 - 用于打包后的exe正确获取文件路径
+# 获取资源路径 - 用于打包后的exe正确获取文件路径dfadfasdgaf的风格
 def resource_path(relative_path):
     """获取资源的绝对路径，支持开发环境和PyInstaller打包环境"""
     try:
@@ -41,7 +41,7 @@ def calculate_distance(row, df):
     except (ValueError, TypeError):
         return None
 
-# 计算百分比
+# 计算百分比微软
 def calculate_percentage(row, df):
     """
     计算百分比
