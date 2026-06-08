@@ -41,7 +41,7 @@ def calculate_distance(row, df):
     except (ValueError, TypeError):
         return None
 
-# 计算百分比微软大多东方是
+# 计算百分比
 def calculate_percentage(row, df):
     """
     计算百分比
